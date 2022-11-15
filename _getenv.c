@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _getenv - get variable enviriomment
  * @name: name the variable envirionment
